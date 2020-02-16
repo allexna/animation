@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">animation</string>
+    <string name="sun">SUN</string>
+    <string name="grass">GRASS</string>
+    <string name="sky">SKY</string>
+    <string name="clock">CLOCK</string>
+    <string name="hour">HOUR</string>
+</resources>
